@@ -4,7 +4,7 @@ import smtplib
 import datetime as dt
 
 MY_EMAIL = "necamark@gmail.com"
-PASSWORD = "xuklpbmootnalxdi"
+PASSWORD = "xuk lpb moo tna lxdi"
 letters = ["letter_1.txt", "letter_2.txt", "letter_3.txt"]
 
 now = dt.datetime.now()
